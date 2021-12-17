@@ -18,7 +18,4 @@ management:
                include: *
 
 com:
-   example:
-      demo:
-         LoginController:
-             ReturnStatement: Logged In
+   ReturnStatement: Logged In
