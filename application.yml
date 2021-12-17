@@ -10,6 +10,12 @@ eureka:
 management:
    security:
       enabled: false
+      
+management:
+    endpoints:
+       web:
+           exposure:
+               include: *
 
 com:
    example:
