@@ -6,8 +6,13 @@ eureka:
       default-zone: http://localhost:8761/edureka/
   instance:
     hostname: localhost
-    
-    
+      
 management:
    security:
       enabled: false
+
+com:
+   example:
+      demo:
+         LoginController:
+             ReturnStatement: Logged In
