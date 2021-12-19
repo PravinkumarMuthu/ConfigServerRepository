@@ -18,4 +18,4 @@ management:
                include: *
 
 com:
-   ReturnStatement: Logged In
+   ReturnStatement: "Logged In"
