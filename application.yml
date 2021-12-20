@@ -14,4 +14,4 @@ management:
 
 
 com:
-   ReturnStatement: "Value Changed"
+   ReturnStatement: "New Value"
